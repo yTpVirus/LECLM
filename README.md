@@ -1,6 +1,6 @@
 # LECLM/RAMLB
 
-LECLM Stands for (Leitor e Criador de Lista de Mapas in Portuguese in English is => Reader And Map List Builder or RAMLB)
+LECLM Stands for ( in Portuguese => Leitor e Criador de Lista de Mapas. In English is => Reader And Map List Builder or RAMLB)
 
 # Portuguese Part:
 
