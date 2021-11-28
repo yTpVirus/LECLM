@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ob6da8qKIhfAcpn9OckFZAb+ZW//4EObxKYyDG/Cj2fG/edEqofFQQOGfJsFomezrhztnKVfJ3/JzDnAvu6qLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igord\\Documents\\ExecutableProjects\\LECLM\\LECLM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igord\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

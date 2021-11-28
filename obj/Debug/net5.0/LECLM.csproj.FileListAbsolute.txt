@@ -1,0 +1,16 @@
+C:\Users\igord\Documents\ExecutableProjects\LECLM\bin\Debug\net5.0\LECLM.exe
+C:\Users\igord\Documents\ExecutableProjects\LECLM\bin\Debug\net5.0\LECLM.deps.json
+C:\Users\igord\Documents\ExecutableProjects\LECLM\bin\Debug\net5.0\LECLM.runtimeconfig.json
+C:\Users\igord\Documents\ExecutableProjects\LECLM\bin\Debug\net5.0\LECLM.runtimeconfig.dev.json
+C:\Users\igord\Documents\ExecutableProjects\LECLM\bin\Debug\net5.0\LECLM.dll
+C:\Users\igord\Documents\ExecutableProjects\LECLM\bin\Debug\net5.0\ref\LECLM.dll
+C:\Users\igord\Documents\ExecutableProjects\LECLM\bin\Debug\net5.0\LECLM.pdb
+C:\Users\igord\Documents\ExecutableProjects\LECLM\obj\Debug\net5.0\LECLM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igord\Documents\ExecutableProjects\LECLM\obj\Debug\net5.0\LECLM.AssemblyInfoInputs.cache
+C:\Users\igord\Documents\ExecutableProjects\LECLM\obj\Debug\net5.0\LECLM.AssemblyInfo.cs
+C:\Users\igord\Documents\ExecutableProjects\LECLM\obj\Debug\net5.0\LECLM.csproj.CoreCompileInputs.cache
+C:\Users\igord\Documents\ExecutableProjects\LECLM\obj\Debug\net5.0\LECLM.dll
+C:\Users\igord\Documents\ExecutableProjects\LECLM\obj\Debug\net5.0\ref\LECLM.dll
+C:\Users\igord\Documents\ExecutableProjects\LECLM\obj\Debug\net5.0\LECLM.pdb
+C:\Users\igord\Documents\ExecutableProjects\LECLM\obj\Debug\net5.0\LECLM.genruntimeconfig.cache
+C:\Users\igord\Documents\ExecutableProjects\LECLM\obj\Debug\net5.0\LECLM.csproj.AssemblyReference.cache
